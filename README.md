@@ -36,6 +36,6 @@ Based on the dashboard analysis, the following insights were extracted:
 3. Use the **Slicers** (City, Product, Sales Rep) on the left panel to interact with the data and filter the dashboard dynamically.
 
 ## 👨‍💻 Author
-**[Your Name]**
+**[Mostafa Mohamed Qayed]**
 *   LinkedIn: [www.linkedin.com/in/mostafa-moham-ed]
 *   Email: [mostafa.kayed100@gmail.com]
